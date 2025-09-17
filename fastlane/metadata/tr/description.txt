@@ -1,0 +1,11 @@
+Housing FarmPlanner, tavuk çiftliği kümeslerini tasarlamak ve yönetmek için kullanıcı dostu bir araçtır. Bu uygulama ile kümeslerinizin düzenini, tavuk sayısını, alan gereksinimlerini, yumurta üretimini ve diğer önemli parametreleri dikkate alarak kolayca planlayabilirsiniz.
+
+- Tavuk Yönetimi: Tavuk sayısını ve ayrıntılarını (cins, yaş, verimlilik vb.) girin.
+- Boyutlar ve Düzen: Kümes boyutlarını özelleştirin ve tavuk başına optimum alanı hesaplayın.
+- Yumurta Takibi: Günlük, haftalık veya aylık üretilen yumurta sayısı istatistiklerini tutun.
+- Grafikler ve Tablolar: Verileri anlaşılır tablolar ve diyagramlarla görselleştirin.
+- 3B Kümes Modeli: Girdilerinize göre kümeslerin görsel bir temsilini görün.
+- Projeleri Kaydet: Birden fazla çiftlik tasarımını kolayca kaydedin ve yönetin.
+- Etkileşimli Görünüm: Mevcut tavuk sayısını ve plandaki yerleşimlerini görün.
+
+Bu uygulama hem yeni başlayan çiftçiler hem de büyük kümes işletmeleri için mükemmeldir. Verimli ve konforlu kümesler tasarlayın, verimliliği artırın ve çiftliğinizi doğrudan cihazınızdan yönetin.

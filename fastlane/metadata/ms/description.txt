@@ -1,0 +1,11 @@
+Housing FarmPlanner ialah alat mesra pengguna untuk mereka bentuk dan mengurus rumah ladang ayam. Dengan aplikasi ini, anda boleh merancang susun atur reban anda dengan mudah, dengan mengambil kira bilangan ayam, keperluan ruang, pengeluaran telur dan parameter utama yang lain.
+
+- Pengurusan Ayam: Masukkan bilangan ayam dan butirannya (baka, umur, produktiviti, dll.).
+- Dimensi & Susun Atur: Sesuaikan dimensi rumah dan kira ruang optimum bagi setiap ayam.
+- Penjejakan Telur: Simpan statistik tentang bilangan telur yang dihasilkan setiap hari, mingguan atau bulanan.
+- Carta & Graf: Visualisasikan data dengan carta dan rajah yang jelas.
+- Model Rumah 3D: Lihat perwakilan visual rumah ayam berdasarkan input anda.
+- Simpan Projek: Simpan dan uruskan berbilang reka bentuk ladang dengan mudah.
+- Paparan Interaktif: Lihat bilangan ayam semasa dan penempatannya pada pelan.
+
+Aplikasi ini sesuai untuk penternak pemula dan operasi ayam besar. Reka bentuk rumah ayam yang cekap dan selesa, tingkatkan produktiviti dan urus ladang anda terus dari peranti anda.

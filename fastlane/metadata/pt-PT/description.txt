@@ -1,0 +1,11 @@
+O FarmPlanner é uma ferramenta fácil de utilizar para projetar e gerir pavilhões de explorações avícolas. Com esta aplicação, pode facilmente planear o layout dos seus galinheiros, tendo em conta o número de galinhas, a necessidade de espaço, a produção de ovos e outros parâmetros importantes.
+
+- Gestão de Galinhas: Introduza o número de galinhas e os seus detalhes (raça, idade, produtividade, etc.).
+- Dimensões e Layout: Personalize as dimensões do galinheiro e calcule o espaço ideal por galinha.
+- Rastreio de Ovos: Mantenha estatísticas sobre o número de ovos produzidos diariamente, semanalmente ou mensalmente.
+- Tabelas e Diagramas: Visualize os dados com gráficos e diagramas claros.
+- Modelo de Galpão 3D: Veja uma representação visual do galinheiro com base nas suas informações.
+- Guardar Projetos: Guarde e gerencie vários projetos de exploração facilmente.
+- Visualização Interativa: Veja o número atual de galinhas e a sua localização na planta.
+
+Esta aplicação é perfeita tanto para criadores iniciantes como para grandes aviculturas. Desenhe galinheiros eficientes e confortáveis, aumente a produtividade e faça a gestão da sua exploração diretamente do seu dispositivo.

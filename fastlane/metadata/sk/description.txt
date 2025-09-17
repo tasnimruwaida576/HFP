@@ -1,0 +1,11 @@
+FarmPlanner je užívateľsky prívetivý nástroj na navrhovanie a správu kurínov. Pomocou tejto aplikácie môžete jednoducho naplánovať rozloženie vašich kurníkov s ohľadom na počet kurčiat, požiadavky na priestor, produkciu vajec a ďalšie kľúčové parametre.
+
+- Riadenie kurčiat: Zadajte počet kurčiat a ich podrobnosti (plemeno, vek, produktivita atď.).
+- Rozmery a rozloženie: Prispôsobte si rozmery kurníka a vypočítajte optimálny priestor na kurča.
+- Sledovanie vajec: Uchovávajte si štatistiky o počte vajec vyrobených denne, týždenne alebo mesačne.
+- Grafy a tabuľky: Vizualizujte údaje pomocou prehľadných grafov a diagramov.
+- 3D model kurníka: Pozrite si vizuálne znázornenie kurníka na základe vašich zadaní.
+- Ukladanie projektov: Jednoducho ukladajte a spravujte viacero návrhov fariem.
+- Interaktívne zobrazenie: Pozrite si aktuálny počet kurčiat a ich umiestnenie na pláne.
+
+Táto aplikácia je ideálna pre začínajúcich farmárov aj pre veľké hydinárske prevádzky. Navrhujte efektívne a pohodlné kurníky, zvýšte produktivitu a spravujte svoju farmu priamo zo svojho zariadenia.

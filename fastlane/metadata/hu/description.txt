@@ -1,0 +1,11 @@
+A Housing FarmPlanner egy felhasználóbarát eszköz csirkeólak tervezéséhez és kezeléséhez. Ezzel az alkalmazással könnyedén megtervezheti ólak elrendezését, figyelembe véve a csirkék számát, a helyigényt, a tojástermelést és más fontos paramétereket.
+
+- Csirkegazdálkodás: Adja meg a csirkék számát és adatait (fajta, kor, termelékenység stb.).
+- Méretek és elrendezés: Testreszabhatja az ólak méreteit, és kiszámíthatja a csirkénkénti optimális helyet.
+- Tojáskövetés: Vezessen statisztikákat a napi, heti vagy havi termelt tojások számáról.
+- Diagramok és grafikonok: Vizualizálja az adatokat áttekinthető diagramokkal és diagramokkal.
+- 3D-s ólmodell: Tekintse meg a csirkeól vizuális ábrázolását a megadott adatok alapján.
+- Projektek mentése: Mentsen el és kezeljen több teleptervet egyszerűen.
+- Interaktív nézet: Tekintse meg a csirkék aktuális számát és elhelyezkedésüket a terven.
+
+Ez az alkalmazás tökéletes mind a kezdő gazdálkodók, mind a nagy baromfitelepek számára. Tervezzen hatékony és kényelmes csirkeólakat, növelje a termelékenységet, és kezelje telepét közvetlenül az eszközéről.

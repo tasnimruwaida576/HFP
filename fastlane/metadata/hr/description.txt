@@ -1,0 +1,11 @@
+Housing FarmPlanner je jednostavan alat za projektiranje i upravljanje kokošinjcima. Pomoću ove aplikacije možete jednostavno planirati raspored svojih kokošinjaca, uzimajući u obzir broj kokoši, potrebe za prostorom, proizvodnju jaja i druge ključne parametre.
+
+- Upravljanje kokošinjcima: Unesite broj kokoši i njihove detalje (pasmina, dob, produktivnost itd.).
+- Dimenzije i raspored: Prilagodite dimenzije kokošinjaca i izračunajte optimalni prostor po kokoši.
+- Praćenje jaja: Vodite statistiku o broju proizvedenih jaja dnevno, tjedno ili mjesečno.
+- Grafikoni i dijagrami: Vizualizirajte podatke pomoću jasnih grafikona i dijagrama.
+- 3D model kokošinjaca: Pogledajte vizualni prikaz kokošinjca na temelju vašeg unosa.
+- Spremanje projekata: Jednostavno spremite i upravljajte više dizajna farmi.
+- Interaktivni prikaz: Pogledajte trenutni broj kokoši i njihov raspored na planu.
+
+Ova je aplikacija savršena i za početnike i za velike peradarske farme. Dizajnirajte učinkovite i udobne kokošinjce, povećajte produktivnost i upravljajte svojom farmom izravno sa svog uređaja.

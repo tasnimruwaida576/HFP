@@ -1,0 +1,11 @@
+Housing FarmPlanner is a user - friendly tool for designing and managing chicken farm houses. With this app, you can easily plan the layout of your coops, taking into account the number of chickens, space requirements, egg production, and other key parameters.
+
+- Chicken Management: Enter the number of chickens and their details (breed, age, productivity, etc.).
+- Dimensions & Layout: Customize house dimensions and calculate optimal space per chicken.
+- Egg Tracking: Keep statistics on the number of eggs produced daily, weekly, or monthly.
+- Charts & Graphs: Visualize data with clear charts and diagrams.
+- 3D House Model: See a visual representation of the chicken house based on your input.
+- Save Projects: Save and manage multiple farm designs easily.
+- Interactive View: See the current number of chickens and their placement on the plan.
+
+This app is perfect for both beginner farmers and large poultry operations. Design efficient and comfortable chicken houses, boost productivity, and manage your farm directly from your device.

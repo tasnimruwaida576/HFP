@@ -1,0 +1,11 @@
+FarmPlanner è uno strumento intuitivo per la progettazione e la gestione di allevamenti di polli. Con questa app, puoi pianificare facilmente la disposizione dei tuoi pollai, tenendo conto del numero di polli, dello spazio necessario, della produzione di uova e di altri parametri chiave.
+
+- Gestione dei polli: inserisci il numero di polli e i relativi dettagli (razza, età, produttività, ecc.).
+- Dimensioni e layout: personalizza le dimensioni del pollaio e calcola lo spazio ottimale per gallina.
+- Monitoraggio delle uova: tieni statistiche sul numero di uova prodotte giornalmente, settimanalmente o mensilmente.
+- Grafici e diagrammi: visualizza i dati con grafici e diagrammi chiari.
+- Modello 3D del pollaio: visualizza una rappresentazione visiva del pollaio in base ai tuoi input.
+- Salva progetti: salva e gestisci facilmente più progetti di allevamento.
+- Vista interattiva: visualizza il numero attuale di polli e la loro posizione sulla planimetria.
+
+Questa app è perfetta sia per gli allevatori principianti che per le grandi aziende avicole. Progetta pollai efficienti e confortevoli, aumenta la produttività e gestisci il tuo allevamento direttamente dal tuo dispositivo.

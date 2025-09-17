@@ -1,0 +1,11 @@
+Housing FarmPlanner là một công cụ thân thiện với người dùng để thiết kế và quản lý chuồng trại chăn nuôi gà. Với ứng dụng này, bạn có thể dễ dàng lập kế hoạch bố trí chuồng trại, tính đến số lượng gà, nhu cầu không gian, sản lượng trứng và các thông số quan trọng khác.
+
+- Quản lý Gà: Nhập số lượng gà và thông tin chi tiết của chúng (giống, độ tuổi, năng suất, v.v.).
+- Kích thước & Bố cục: Tùy chỉnh kích thước chuồng và tính toán không gian tối ưu cho mỗi con gà.
+- Theo dõi Trứng: Lưu số liệu thống kê về số lượng trứng được sản xuất hàng ngày, hàng tuần hoặc hàng tháng.
+- Biểu đồ & Đồ thị: Trực quan hóa dữ liệu bằng biểu đồ và sơ đồ rõ ràng.
+- Mô hình Nhà 3D: Xem hình ảnh trực quan của chuồng gà dựa trên thông tin bạn nhập.
+- Lưu Dự án: Lưu và quản lý nhiều thiết kế trang trại một cách dễ dàng.
+- Chế độ xem Tương tác: Xem số lượng gà hiện tại và vị trí của chúng trên bản vẽ.
+
+Ứng dụng này hoàn hảo cho cả người chăn nuôi mới bắt đầu và các hộ chăn nuôi gia cầm quy mô lớn. Thiết kế chuồng gà hiệu quả và tiện nghi, tăng năng suất và quản lý trang trại của bạn trực tiếp từ thiết bị.

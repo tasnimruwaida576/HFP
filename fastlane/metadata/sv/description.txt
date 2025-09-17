@@ -1,0 +1,11 @@
+Housing FarmPlanner är ett användarvänligt verktyg för att designa och hantera hönsgårdar. Med den här appen kan du enkelt planera layouten för dina hönsgårdar, med hänsyn till antal kycklingar, utrymmesbehov, äggproduktion och andra viktiga parametrar.
+
+- Hönshantering: Ange antalet kycklingar och deras detaljer (ras, ålder, produktivitet etc.).
+- Mått och layout: Anpassa hönsgårdens dimensioner och beräkna optimalt utrymme per kyckling.
+- Äggspårning: För statistik över antalet producerade ägg dagligen, veckovis eller månadsvis.
+- Diagram och grafer: Visualisera data med tydliga diagram och tabeller.
+- 3D-husmodell: Se en visuell representation av hönsgården baserat på dina indata.
+- Spara projekt: Spara och hantera flera gårdsdesigner enkelt.
+- Interaktiv vy: Se det aktuella antalet kycklingar och deras placering på planen.
+
+Den här appen är perfekt för både nybörjarbönder och stora fjäderfäföretag. Designa effektiva och bekväma hönsgårdar, öka produktiviteten och hantera din gård direkt från din enhet.

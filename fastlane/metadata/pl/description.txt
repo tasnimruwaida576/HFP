@@ -1,0 +1,11 @@
+Housing FarmPlanner to przyjazne dla użytkownika narzędzie do projektowania i zarządzania kurnikami. Dzięki tej aplikacji możesz łatwo zaplanować układ kurników, biorąc pod uwagę liczbę kurczaków, zapotrzebowanie na przestrzeń, produkcję jaj i inne kluczowe parametry.
+
+- Zarządzanie kurami: Wprowadź liczbę kurczaków i ich dane (rasę, wiek, produktywność itp.).
+- Wymiary i układ: Dostosuj wymiary kurnika i oblicz optymalną przestrzeń dla każdego kurczaka.
+- Śledzenie jaj: Prowadź statystyki dotyczące liczby jaj znoszonych dziennie, tygodniowo lub miesięcznie.
+- Wykresy i grafy: Wizualizacja danych za pomocą przejrzystych wykresów i diagramów.
+- Model kurnika 3D: Zobacz wizualną reprezentację kurnika na podstawie wprowadzonych danych.
+- Zapisywanie projektów: Łatwe zapisywanie i zarządzanie wieloma projektami kurnika.
+- Widok interaktywny: Zobacz aktualną liczbę kurczaków i ich rozmieszczenie na planie.
+
+Ta aplikacja jest idealna zarówno dla początkujących hodowców, jak i dużych ferm drobiu. Zaprojektuj wydajne i komfortowe kurniki, zwiększ produktywność i zarządzaj swoją fermą bezpośrednio z urządzenia.

@@ -1,0 +1,11 @@
+Housing FarmPlanner er et brukervennlig verktøy for å designe og administrere kyllinggårdshus. Med denne appen kan du enkelt planlegge utformingen av hønsehuset ditt, med tanke på antall kyllinger, plassbehov, eggproduksjon og andre viktige parametere.
+
+- Kyllingadministrasjon: Skriv inn antall kyllinger og deres detaljer (rase, alder, produktivitet osv.).
+- Dimensjoner og layout: Tilpass husets dimensjoner og beregn optimal plass per kylling.
+- Eggsporing: Hold statistikk over antall egg produsert daglig, ukentlig eller månedlig.
+- Diagrammer og grafer: Visualiser data med tydelige diagrammer og diagrammer.
+- 3D-husmodell: Se en visuell representasjon av kyllinghuset basert på dine innspill.
+- Lagre prosjekter: Lagre og administrer flere gårdsdesign enkelt.
+- Interaktiv visning: Se gjeldende antall kyllinger og deres plassering på planen.
+
+Denne appen er perfekt for både nybegynnere og store fjørfebedrifter. Design effektive og komfortable kyllinghus, øk produktiviteten og administrer gården din direkte fra enheten din.
