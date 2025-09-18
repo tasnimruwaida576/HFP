@@ -4,12 +4,14 @@ platform :ios do
   desc "Update Metadata. No Update Build"
   lane :upload_metadata do
     deliver(
-	    app_identifier: "com.Housing-FarmPlanner",
+	  app_identifier: "com.Housing-FarmPlanner",
       username: "tasnimruwaida576@gmail.com",
       skip_binary_upload: true,
       skip_metadata: false,
       skip_screenshots: false,
       force: true,
+      run_precheck_before_submit: false,
+      overwrite_screenshots: true,
       metadata_path: "./fastlane/metadata",
 	  screenshots_path: "./fastlane/screenshots"
     )
