@@ -3,6 +3,7 @@ default_platform(:ios)
 platform :ios do
   desc "Update Metadata. No Update Build"
   lane :upload_metadata do
+  run_precheck_before_submit false
     deliver(
 	    app_identifier: "com.Housing-FarmPlanner",
       username: "tasnimruwaida576@gmail.com",
