@@ -9,6 +9,7 @@ platform :ios do
       skip_binary_upload: true,
       skip_metadata: false,
       skip_screenshots: true,
+	  automatic_release: true,
       force: true,
 	  edit_live: true,
       metadata_path: "./fastlane/metadata",
