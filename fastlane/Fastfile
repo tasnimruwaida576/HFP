@@ -12,6 +12,7 @@ platform :ios do
       force: true,
       run_precheck_before_submit: false,
       overwrite_screenshots: true,
+      wait_for_upload: true,
       metadata_path: "./fastlane/metadata",
 	  screenshots_path: "./fastlane/screenshots"
     )
