@@ -11,7 +11,7 @@ platform :ios do
       skip_screenshots: false,
       force: true,
       metadata_path: "./fastlane/metadata",
-	  screenshots_path: "./fastlane/metadata"
+	  screenshots_path: "./fastlane/screenshots"
     )
   end
 end
