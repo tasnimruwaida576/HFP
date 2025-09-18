@@ -8,10 +8,9 @@ platform :ios do
       username: "tasnimruwaida576@gmail.com",
       skip_binary_upload: true,
       skip_metadata: false,
-      skip_screenshots: false,
+      skip_screenshots: true,
       force: true,
       run_precheck_before_submit: false,
-      #overwrite_screenshots: true,
       metadata_path: "./fastlane/metadata",
 	  screenshots_path: "./fastlane/screenshots"
     )
